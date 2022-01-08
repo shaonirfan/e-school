@@ -1,0 +1,65 @@
+.container{
+    margin-bottom: 100px;
+}
+.sign-in-button{
+    align-items: center;
+    width: 104px;
+    height: 43px;
+    border-style: none;
+    background: #21B573;
+    border-radius: 33px;
+}
+.sign-in-text{
+    color: white;
+}
+.img-1{
+    width: 554px;
+    height: 346px;
+}
+.text-1{
+ 
+   
+
+    color: #FD511A;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+.text-2{
+   
+    
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+.text-3{
+  
+   
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+}
+.green-text{
+    color: #21B573;
+}
+
+
+.text-4{
+    position: absolute;
+    
+    
+}
+.sec-1{
+    background-color: #F0FFF0;
+}
+.nav-link{
+    color: black !important;
+}
